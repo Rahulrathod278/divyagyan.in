@@ -1,5 +1,1 @@
-function showMessage(){
-
-alert("ज्ञान ही सबसे बड़ा धन है।\n\n🕉️ DivyaGyan.in");
-
-}
+function showMessage(){alert("ज्ञान ही सबसे बड़ा धन है।");}
